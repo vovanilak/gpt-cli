@@ -1,0 +1,7 @@
+openai
+requiests
+typer
+langchain
+gigachat
+python-dotenv
+
